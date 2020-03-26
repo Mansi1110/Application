@@ -1,0 +1,12 @@
+.Display{
+    background-color: palegoldenrod;
+    display: flexbox;
+    padding: 10px 30px;
+}
+.strong{
+    display: inline-table;
+    color:brown;
+}
+.price{
+    color: rgb(119, 62, 5);
+}
