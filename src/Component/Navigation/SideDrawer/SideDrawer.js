@@ -1,7 +1,7 @@
 import React from 'react';
 import './SideDrawer.css';
 import Backdrop from '../../UI/Backdrop/Backdrop';
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../Aux';
 import Logo from '../../Logo/Logo';
 
 const sideDrawer = ( props ) => {

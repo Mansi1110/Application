@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Aux from '../../hoc/Aux';
+import Aux from '../../Aux';
 import PizzaControls from '../../Component/PizzaControls/PizzaControls';
 import Modal from '../../Component/UI/Modal/Modal';
 import OrderSummary from '../../Component/PizzaControls/OrderSummary/OrderSummary';
